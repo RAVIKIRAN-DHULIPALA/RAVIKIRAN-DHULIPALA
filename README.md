@@ -1,11 +1,11 @@
-### Hi there, I'm Ravikiran Dhulipala 👋
-
-## I'm a Android Developer, Web Developer, UI Designer!
-- 🔭 I’m currently working on a android application(Textract)!
-- 🌱 I’m currently learning everything 🤣
+### Hi there, I'm Ravi Kiran Dhulipala 👋
+## I'm a Full stack Developer| UI(React) Developer | UX/UI Designer
+# Developer by Degree and Designer by Passion.
+- 🔭 currently working on something awesome.
+- 🌱 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to android world
-- ⚡ Fun fact: I love to design and create logo's
+- 🥅 2020 Goals: Contribute more to Android world
+- ⚡ Fun fact: I love to design and create logos
 
 ### Connect with me:
 
